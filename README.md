@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 - > Email: makwarelazwiada476@gmail.com
   > > Phone Number: +27711710610
-  > >  Postal|Physical Address: Crater St, Bedworth Park, Vereeniging, 1939
+  > > >  Postal|Physical Address: Crater St, Bedworth Park, Vereeniging, 1939
 
 <!---
 Zwiada1706/Zwiada1706 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
